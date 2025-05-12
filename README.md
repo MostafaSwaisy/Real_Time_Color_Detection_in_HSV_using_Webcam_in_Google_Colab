@@ -76,4 +76,4 @@ This project is open-source and available for educational use.
 
 ---
 
-**Enjoy building your smart color detector! **
+**Enjoy building your smart color detector!**
